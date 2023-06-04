@@ -19,7 +19,7 @@
         android:id="@+id/seconditem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="I am here!"
+        android:text="I am here... We are now in new branch!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toRightOf="@+id/firstitem"
         app:layout_constraintRight_toRightOf="parent"
